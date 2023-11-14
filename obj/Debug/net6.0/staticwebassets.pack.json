@@ -1,0 +1,261 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Maps\\77031b11-20ec-4ae4-823f-8063d3682ae2.gpx",
+      "PackagePath": "staticwebassets\\Maps\\77031b11-20ec-4ae4-823f-8063d3682ae2.gpx"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Maps\\e7f08f48-eabc-4ab2-8932-960538d27f97.gpx",
+      "PackagePath": "staticwebassets\\Maps\\e7f08f48-eabc-4ab2-8932-960538d27f97.gpx"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\04d199fe-df5d-4181-ae20-bbf3660d7b80.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\04d199fe-df5d-4181-ae20-bbf3660d7b80.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\11bdf6ae-7afb-4ae4-a8f3-4da8873951b0.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\11bdf6ae-7afb-4ae4-a8f3-4da8873951b0.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\14a7ab1f-bc8e-48ff-9253-462a93349839.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\14a7ab1f-bc8e-48ff-9253-462a93349839.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\178bcfe6-2cda-46ac-a4ad-0d960ea57b1c.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\178bcfe6-2cda-46ac-a4ad-0d960ea57b1c.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\324dbfc7-4eef-4318-9bc2-193699bdc7cb.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\324dbfc7-4eef-4318-9bc2-193699bdc7cb.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\3b25a571-5070-4896-bb8e-f5bd627a9bce.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\3b25a571-5070-4896-bb8e-f5bd627a9bce.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\3f176c5b-c8d5-48fe-8bd3-37cb9dee0d4c.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\3f176c5b-c8d5-48fe-8bd3-37cb9dee0d4c.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\6865ab08-a5d5-4558-a826-a6bd508ff2ca.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\6865ab08-a5d5-4558-a826-a6bd508ff2ca.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\6d4def37-c60f-4b3f-b0af-7d2b09788372.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\6d4def37-c60f-4b3f-b0af-7d2b09788372.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\78a44515-fa3d-414a-8383-95b3604d35f8.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\78a44515-fa3d-414a-8383-95b3604d35f8.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\9c4bd2a3-34f1-41eb-ae98-f81e50f61c6d.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\9c4bd2a3-34f1-41eb-ae98-f81e50f61c6d.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\9cfbdf6f-1b51-4920-81db-b4c3a6713cb9.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\9cfbdf6f-1b51-4920-81db-b4c3a6713cb9.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\9d8653c2-45fa-4446-acb8-e03d7ca6ffa1.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\9d8653c2-45fa-4446-acb8-e03d7ca6ffa1.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\9f62326a-06be-453e-8e70-7d298da15d0b.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\9f62326a-06be-453e-8e70-7d298da15d0b.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\9f75f497-97bf-44a4-a52e-dfb84836a307.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\9f75f497-97bf-44a4-a52e-dfb84836a307.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\a6c00c34-f677-4ffd-a959-081f827d77f8.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\a6c00c34-f677-4ffd-a959-081f827d77f8.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\ae330bb1-4fa9-427a-92cd-6336ffa52036.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\ae330bb1-4fa9-427a-92cd-6336ffa52036.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\b92445c3-4425-45e0-898e-6f6363d56316.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\b92445c3-4425-45e0-898e-6f6363d56316.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\bafe298c-4ef8-482c-8297-8856f549bf65.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\bafe298c-4ef8-482c-8297-8856f549bf65.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\bc411c1c-3bb1-47ab-9db3-1b17779fbe36.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\bc411c1c-3bb1-47ab-9db3-1b17779fbe36.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\c3ca2664-9fb2-4ce6-aac1-a707c4a628f9.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\c3ca2664-9fb2-4ce6-aac1-a707c4a628f9.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\ceba8e99-da70-4c9c-bbd6-5bcfdde6df3a.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\ceba8e99-da70-4c9c-bbd6-5bcfdde6df3a.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\ef108dc6-c41f-4b0f-8f1b-713c5ed503ac.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\ef108dc6-c41f-4b0f-8f1b-713c5ed503ac.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Photograph\\fca48976-5d76-460a-8206-514a153bb9d4.jpg",
+      "PackagePath": "staticwebassets\\Photograph\\fca48976-5d76-460a-8206-514a153bb9d4.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\05ce22fb-8f98-4739-b58e-9832658e628e.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\05ce22fb-8f98-4739-b58e-9832658e628e.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\IMG-9b3dc5ab488213aa2107a2b38ec7f5ed-V.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\IMG-9b3dc5ab488213aa2107a2b38ec7f5ed-V.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile06d20fdd-ceec-4b28-ad1f-6eb4eff85cb7.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile06d20fdd-ceec-4b28-ad1f-6eb4eff85cb7.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile0745f76f-17c9-4326-a1e1-7ee5a8e2dcba.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile0745f76f-17c9-4326-a1e1-7ee5a8e2dcba.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile10f71d59-4c77-42eb-9d37-d24d130a8d3d.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile10f71d59-4c77-42eb-9d37-d24d130a8d3d.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile18558140-1b7b-4aac-ad0d-b620a424b661.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile18558140-1b7b-4aac-ad0d-b620a424b661.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile18bf3c73-81ff-4ee5-aa36-9f3ac68806ae.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile18bf3c73-81ff-4ee5-aa36-9f3ac68806ae.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile1fece90c-b043-4fce-9bfd-80404a533064.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile1fece90c-b043-4fce-9bfd-80404a533064.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile239a8e7c-762a-4e6f-a1e2-a6ad8d52f00b.jpeg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile239a8e7c-762a-4e6f-a1e2-a6ad8d52f00b.jpeg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile2429e28f-9c31-4c7c-bcc6-cbc4217bb10e.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile2429e28f-9c31-4c7c-bcc6-cbc4217bb10e.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile24e1c052-9e24-48a3-a957-70ae6c0c82aa.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile24e1c052-9e24-48a3-a957-70ae6c0c82aa.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile37764d65-63d0-44db-931f-6f97be065061.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile37764d65-63d0-44db-931f-6f97be065061.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile38cefa52-876b-4bf0-bfa2-7572e0804946.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile38cefa52-876b-4bf0-bfa2-7572e0804946.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile414fc3aa-4e9d-45fa-8cf0-a552f7ca4a6d.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile414fc3aa-4e9d-45fa-8cf0-a552f7ca4a6d.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile4e0edc4e-d418-4d5d-bbdd-96b9a8034ed1.jpeg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile4e0edc4e-d418-4d5d-bbdd-96b9a8034ed1.jpeg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile58c61a48-7196-4a89-9546-676bfe92e296.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile58c61a48-7196-4a89-9546-676bfe92e296.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile5a369bbd-ed20-4a05-8ad5-b5e5ab103f98.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile5a369bbd-ed20-4a05-8ad5-b5e5ab103f98.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile78929722-7ab2-4024-98a3-e907e1840158.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile78929722-7ab2-4024-98a3-e907e1840158.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile78b98866-4316-45d6-b78e-d744c460c1c5.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile78b98866-4316-45d6-b78e-d744c460c1c5.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profile86c0db26-22df-491a-9333-798c5db555f8.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profile86c0db26-22df-491a-9333-798c5db555f8.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profilea22188da-70db-4ed3-ad9f-933349c63bf8.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profilea22188da-70db-4ed3-ad9f-933349c63bf8.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profilea715951b-f6cd-41be-9dc1-b97247e79a00.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profilea715951b-f6cd-41be-9dc1-b97247e79a00.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profilea881f47c-fe35-49a9-8774-4dc86877ade7.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profilea881f47c-fe35-49a9-8774-4dc86877ade7.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profilea96f19d4-e7d3-4854-950c-b8761bd8dded.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profilea96f19d4-e7d3-4854-950c-b8761bd8dded.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profilead96bbc6-a642-4fa2-9902-036e94c49a81.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profilead96bbc6-a642-4fa2-9902-036e94c49a81.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profileb27bdcd9-94d1-459c-92c5-fa865d9a243c.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profileb27bdcd9-94d1-459c-92c5-fa865d9a243c.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profileb95755e6-dacf-4596-bb66-0a4503f779b2.jpeg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profileb95755e6-dacf-4596-bb66-0a4503f779b2.jpeg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profilec605b40d-cfda-4a58-a34a-ea9cfd9d1cea.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profilec605b40d-cfda-4a58-a34a-ea9cfd9d1cea.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profiledca30a10-e9f4-4786-b0be-bfe07756c3c1.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profiledca30a10-e9f4-4786-b0be-bfe07756c3c1.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profiledf3a78c8-7a1d-4d3f-ba8f-7ad9221aef9f.jpeg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profiledf3a78c8-7a1d-4d3f-ba8f-7ad9221aef9f.jpeg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profiledfbfb7a3-5c2a-4496-982a-bef77aefcdd9.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profiledfbfb7a3-5c2a-4496-982a-bef77aefcdd9.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profilee7ef4f90-2f3b-473c-b23d-caaf09dda4a1.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profilee7ef4f90-2f3b-473c-b23d-caaf09dda4a1.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\_Profilef7910c00-93ce-46c8-a92c-0912666608d5.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\_Profilef7910c00-93ce-46c8-a92c-0912666608d5.jpg"
+    },
+    {
+      "Id": "D:\\Project Backend\\Hikers_Diary\\Hikers_Diary\\wwwroot\\Profilep\\e141d3fe-17f6-4dda-ba86-de9755c2a0dc.jpg",
+      "PackagePath": "staticwebassets\\Profilep\\e141d3fe-17f6-4dda-ba86-de9755c2a0dc.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hikers_Diary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Hikers_Diary.props",
+      "PackagePath": "build\\Hikers_Diary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Hikers_Diary.props",
+      "PackagePath": "buildMultiTargeting\\Hikers_Diary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Hikers_Diary.props",
+      "PackagePath": "buildTransitive\\Hikers_Diary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
